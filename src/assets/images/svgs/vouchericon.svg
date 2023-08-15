@@ -1,0 +1,10 @@
+<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="tabler:ticket">
+<g id="Group">
+<path id="Vector" d="M26.25 8.75V12.25" stroke="#FF5F00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M26.25 19.25V22.75" stroke="#FF5F00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M26.25 29.75V33.25" stroke="#FF5F00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M8.75 8.75H33.25C34.1783 8.75 35.0685 9.11875 35.7249 9.77513C36.3813 10.4315 36.75 11.3217 36.75 12.25V17.5C35.8217 17.5 34.9315 17.8687 34.2751 18.5251C33.6187 19.1815 33.25 20.0717 33.25 21C33.25 21.9283 33.6187 22.8185 34.2751 23.4749C34.9315 24.1313 35.8217 24.5 36.75 24.5V29.75C36.75 30.6783 36.3813 31.5685 35.7249 32.2249C35.0685 32.8813 34.1783 33.25 33.25 33.25H8.75C7.82174 33.25 6.9315 32.8813 6.27513 32.2249C5.61875 31.5685 5.25 30.6783 5.25 29.75V24.5C6.17826 24.5 7.0685 24.1313 7.72487 23.4749C8.38125 22.8185 8.75 21.9283 8.75 21C8.75 20.0717 8.38125 19.1815 7.72487 18.5251C7.0685 17.8687 6.17826 17.5 5.25 17.5V12.25C5.25 11.3217 5.61875 10.4315 6.27513 9.77513C6.9315 9.11875 7.82174 8.75 8.75 8.75" stroke="#FF5F00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
